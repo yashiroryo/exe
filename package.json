@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "package",
+  "version": "1.0.0",
+  "main": "put.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
